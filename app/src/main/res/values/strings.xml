@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyVoltalis Widget</string>
+    <string name="widget_description">Show and change the MyVoltalis heating mode</string>
+</resources>
